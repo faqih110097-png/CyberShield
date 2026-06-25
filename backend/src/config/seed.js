@@ -55,4 +55,3 @@ const seedVulnerabilities = async () => {
 };
 
 seedVulnerabilities();
-
